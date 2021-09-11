@@ -1,3 +1,5 @@
+// Esse codigo cria um grafico de agrupamento-dados em CSV 
+
 const fs = require("fs");
 const readline = require("readline");
 
