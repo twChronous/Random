@@ -5,8 +5,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 
 
-<img src="exemplo-image.png" alt="exemplo imagem">
-
 > Esse repositorio contem codigos que eu fiz e que não necessariamente possue sentido.
 
 ## 🤝 Colaboradores
