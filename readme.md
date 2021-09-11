@@ -1,8 +1,8 @@
 # Random codes
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/twChronous/Random?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/twChronous/Random?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/twChronous/Random?style=for-the-badge)
 
 
 > Esse repositorio contem codigos que eu fiz e que não necessariamente possue sentido.
