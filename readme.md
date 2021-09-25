@@ -5,7 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/twChronous/Random?style=for-the-badge)
 
 
-> Esse repositorio contem codigos que eu fiz e que não necessariamente possue sentido.
+> Esse repositorio contem codigos que eu fiz e que não necessariamente possuem sentido.
 
 ## 🤝 Colaboradores
 
