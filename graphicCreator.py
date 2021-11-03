@@ -13,7 +13,7 @@ countedValues = Counter(valuesList)
 grapihic = open(graphicName + ".csv", "a")
 
 grapihic.write(graphicName + ', frequência absoluta (FA), frequência relativa (FR) %\n')
-graphicLine = "{}, {}, {}%, \n"
+graphicLine = "{}, {}, {}% \n"
 
 for key in countedValues.keys():
     grapihic.write(
